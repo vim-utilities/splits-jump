@@ -1,0 +1,23 @@
+*splits-jump.txt*        For Vim version 8.0.         Last change: 2020 Oct 20
+
+
+                      Splits Jump    by S0AndS0
+
+
+Splits Jump                                                      *splits-jump*
+
+1. Normal Mappings                                    |splits-jump-normal-map|
+
+==============================================================================
+1. Normal Mappings                                    *splits-jump-normal-map*
+
+<C-h>                  Jump towards left split
+
+<C-j>                  Jump towards lower split
+
+<C-k>                  Jump towards upper split
+
+<C-l>                  Jump towards right split
+
+ vim:tw=78:ts=8:ft=help:norl:
+
