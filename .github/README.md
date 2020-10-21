@@ -140,13 +140,13 @@ ______
 All split actions are relative to current/active split, and intended to be used within Normal mode...
 
 
-- `<C-h>` Jump towards left split
+- <kbd>Ctrl</kbd><kbd>h</kbd> Jump towards left split
 
-- `<C-j>` Jump towards lower split
+- <kbd>Ctrl</kbd><kbd>j</kbd> Jump towards lower split
 
-- `<C-k>` Jump towards upper split
+- <kbd>Ctrl</kbd><kbd>k</kbd> Jump towards upper split
 
-- `<C-l>` Jump towards right split
+- <kbd>Ctrl</kbd><kbd>l</kbd> Jump towards right split
 
 
 ______
